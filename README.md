@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-Prompt portfolio for my art appreciation class
+Aya Narita
+Art Appreciation Section 1301-154
+This is my prompt portfolio for my art appreciation class
