@@ -1,4 +1,4 @@
 # Visual-Prompt-Studio
-Aya Narita
-Art Appreciation Section 1301-154
-This is my prompt portfolio for my art appreciation class
+Name: **Aya Narita**
+Class: **Art Appreciation Section 1301-154**
+Description: **This is my prompt portfolio for my art appreciation class**
