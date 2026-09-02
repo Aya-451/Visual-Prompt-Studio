@@ -5,4 +5,4 @@
   Shape- Shapes can be both geometric or organic; geometric shapes are shapes that are "man-made" and follow a rule that is true every time like how squares are always 4 sides. While organic shapes are shape found in nature and doesn't have a defined rule like the Pokémon ditto. 
   Texture- How the artwork feels like the feeling of a statue or 3d artwork.
   Volume- The space in an artwork whether its 3d or 2d if it can make the viewers feel the space or depth in that artwork than the artwork has a sense of volume.
-  Contrast- Contrast is used to create emphasis and can be used to create depth. Artists use contrast with different elements of art not just by color, but also by different types of shapes or lines. (like black and white/circles and square, straight and bold to light and wavy lines).  
+  Contrast- Contrast is used to create emphasis and can be used to create depth. Artists use contrast with different elements of art not just by color, but also by different types of shapes or lines. 
