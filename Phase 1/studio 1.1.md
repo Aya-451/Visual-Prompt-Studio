@@ -1,4 +1,4 @@
-**Assignment Title**: The Sci-fi film poster challenge
+**Assignment Title**: The Sci-fi film poster challenge  
 	**Prompt**
 	**Vocabulary Breakdown**:
   Lines- Are the very basic type of art; there are different types of lines such as contour lines and implied lines both can be used to create different effects. Lines can be straight, diagonal, zig-zagged, wavy, etc. all of these types of lines are used to create many effects, however artists frequently use lines to create a sense of movement.
