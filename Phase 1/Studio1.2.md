@@ -1,4 +1,4 @@
-**Assignment Title**: The Immersive Album Cover Challenge//
-**Prompt**//
-**Vocabulary**//
+**Assignment Title**: The Immersive Album Cover Challenge  
+**Prompt**:    
+**Vocabulary**:  
 
